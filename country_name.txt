@@ -1,0 +1,250 @@
+CNTRY_NAME  // * at end of name will skip the country
+ Falkland Is.*
+ French Guiana
+ Guyana
+ Pitcairn Is.
+ South Georgia & the South Sandwich Is.
+ St. Helena
+ Suriname
+ Trinidad & Tobago
+ Venezuela
+ American Samoa
+ Cook Is.
+ French Polynesia
+ Jarvis I.
+ Niue
+ Samoa
+ Tokelau
+ Tonga
+ Wallis & Futuna
+ Argentina
+ Bolivia
+ Brazil
+ Chile
+ Ecuador
+ Paraguay
+ Peru
+ Uruguay
+ Baker I.*
+ Canada
+ Guatemala*
+ Howland I.*
+ Johnston Atoll*
+ Mexico
+ Midway Is.*
+ Barbados
+ Dominica
+ Grenada
+ Guadeloupe
+ Martinique
+ St. Lucia
+ St. Pierre & Miquelon
+ St. Vincent & the Grenadines
+ Aruba
+ Bermuda
+ Dominican Republic
+ Haiti
+ Jamaica
+ Netherlands Antilles*
+ The Bahamas
+ Turks & Caicos Is.*
+ Belize
+ Cayman Is.*
+ Colombia
+ Costa Rica
+ Cuba
+ El Salvador
+ Honduras
+ Nicaragua
+ Panama
+ Anguilla
+ Antigua & Barbuda
+ British Virgin Is.*
+ Montserrat
+ Puerto Rico
+ St. Kitts & Nevis
+ Virgin Is.*
+ Faroe Is.*
+ Greenland
+ Guernsey
+ Iceland
+ Ireland
+ Isle of Man*
+ Jan Mayen
+ Jersey*
+ United Kingdom
+ Cape Verde
+ Cote d'Ivoire
+ Ghana
+ Gibraltar
+ Liberia
+ Morocco
+ Portugal
+ Spain
+ Western Sahara*
+ Burkina Faso
+ Guinea
+ Guinea-Bissau
+ Mali
+ Mauritania
+ Senegal
+ Sierra Leone
+ The Gambia
+ Djibouti
+ Eritrea
+ Ethiopia
+ Mongolia
+ Sudan
+ Uganda
+ Gaza Strip
+ Iraq
+ Israel
+ Jordan
+ Kazakhstan
+ Norway
+ Russia
+ Sweden
+ West Bank*
+ Algeria
+ Andorra
+ Cameroon
+ Central African Republic
+ Libya
+ Monaco
+ Tunisia
+ Benin
+ Chad
+ Equatorial Guinea
+ Kiribati
+ Niger
+ Nigeria
+ Sao Tome & Principe
+ Togo
+ Albania
+ Bosnia & Herzegovina
+ Croatia
+ Italy
+ Macedonia
+ Malta
+ San Marino
+ Vatican City*
+ Bulgaria
+ Cyprus
+ Egypt
+ Georgia
+ Greece
+ Lebanon
+ Syria
+ Turkey
+ Austria
+ Czech Republic
+ Denmark
+ Hungary
+ Poland
+ Slovakia
+ Slovenia
+ Svalbard
+ Belgium
+ France
+ Germany
+ Liechtenstein
+ Luxembourg
+ Switzerland
+ United States
+ Belarus
+ Estonia
+ Finland
+ Latvia
+ Lithuania
+ Moldova
+ Romania
+ Ukraine
+ India
+ Maldives
+ Oman
+ Somalia
+ Sri Lanka
+ Turkmenistan
+ Uzbekistan
+ Yemen
+ Armenia
+ Azerbaijan
+ Bahrain
+ Iran
+ Kuwait
+ Qatar
+ Saudi Arabia
+ United Arab Emirates
+ Afghanistan
+ Kyrgyzstan
+ Nepal
+ Pakistan
+ Tajikistan
+ Bangladesh
+ Bhutan
+ Brunei
+ China
+ Japan
+ North Korea
+ Palau
+ Philippines
+ South Korea
+ Cambodia
+ Laos
+ Malaysia
+ Myanmar
+ Singapore
+ Thailand
+ Vietnam
+ Guam
+ Marshall Is.*
+ Micronesia
+ Northern Mariana Is.*
+ Wake I.*
+ Botswana
+ Burundi
+ French Southern & Antarctic Lands*
+ Heard I. & McDonald Is.*
+ Kenya
+ Rwanda
+ Tanzania
+ Zambia
+ Zimbabwe
+ Antarctica*
+ Bouvet I.*
+ Comoros
+ Juan De Nova I.*
+ Lesotho
+ Malawi
+ Mozambique
+ South Africa
+ Swaziland
+ Angola
+ Congo
+ DRC Congo
+ Fiji
+ Gabon
+ Namibia
+ New Zealand
+ British Indian Ocean Territory*
+ Glorioso Is.*
+ Madagascar
+ Mauritius
+ Mayotte
+ Reunion*
+ Seychelles
+ Christmas I.*
+ Cocos Is.*
+ Indonesia
+ Timor-Leste
+ Australia
+ Nauru
+ New Caledonia
+ Norfolk I.*
+ Papua New Guinea
+ Solomon Is.
+ Tuvalu
+ Vanuatu
+ Montenegro
+ Serbia
+ Netherlands
