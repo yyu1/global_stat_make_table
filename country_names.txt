@@ -3,20 +3,20 @@ CNTRY_NAME  // * at end of name will skip the country
  French Guiana
  Guyana
  Pitcairn Is.
- South Georgia & the South Sandwich Is.
+ South Georgia \& the South Sandwich Is.
  St. Helena
  Suriname
- Trinidad & Tobago
+ Trinidad \& Tobago
  Venezuela
  American Samoa
  Cook Is.
  French Polynesia
- Jarvis I.
+ Jarvis I.*
  Niue
  Samoa
  Tokelau
  Tonga
- Wallis & Futuna
+ Wallis \& Futuna
  Argentina
  Bolivia
  Brazil
@@ -38,8 +38,8 @@ CNTRY_NAME  // * at end of name will skip the country
  Guadeloupe
  Martinique
  St. Lucia
- St. Pierre & Miquelon
- St. Vincent & the Grenadines
+ St. Pierre \& Miquelon
+ St. Vincent \& the Grenadines
  Aruba
  Bermuda
  Dominican Republic
@@ -47,7 +47,7 @@ CNTRY_NAME  // * at end of name will skip the country
  Jamaica
  Netherlands Antilles*
  The Bahamas
- Turks & Caicos Is.*
+ Turks \& Caicos Is.*
  Belize
  Cayman Is.*
  Colombia
@@ -58,11 +58,11 @@ CNTRY_NAME  // * at end of name will skip the country
  Nicaragua
  Panama
  Anguilla
- Antigua & Barbuda
+ Antigua \& Barbuda
  British Virgin Is.*
  Montserrat
  Puerto Rico
- St. Kitts & Nevis
+ St. Kitts \& Nevis*
  Virgin Is.*
  Faroe Is.*
  Greenland
@@ -118,10 +118,10 @@ CNTRY_NAME  // * at end of name will skip the country
  Kiribati
  Niger
  Nigeria
- Sao Tome & Principe
+ Sao Tome \& Principe
  Togo
  Albania
- Bosnia & Herzegovina
+ Bosnia \& Herzegovina
  Croatia
  Italy
  Macedonia
@@ -203,8 +203,8 @@ CNTRY_NAME  // * at end of name will skip the country
  Wake I.*
  Botswana
  Burundi
- French Southern & Antarctic Lands*
- Heard I. & McDonald Is.*
+ French Southern \& Antarctic Lands*
+ Heard I. \& McDonald Is.*
  Kenya
  Rwanda
  Tanzania
